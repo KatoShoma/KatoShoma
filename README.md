@@ -1,11 +1,10 @@
 ### My profile
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShomaKato&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatoShoma&layout=conpact&theme=radical" />
-</a>
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=KatoShoma&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KatoShoma/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatoShoma&layout=compact&theme=tokyonight)](https://github.com/KatoShoma/)
 
 
 <!--
