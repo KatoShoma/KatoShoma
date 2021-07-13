@@ -2,7 +2,11 @@
 
 ## Status
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KatoShoma)
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=KatoShoma&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KatoShoma/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatoShoma&layout=compact&theme=tokyonight)](https://github.com/KatoShoma/)
 <!--
 **KatoShoma/KatoShoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
